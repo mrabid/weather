@@ -1,0 +1,16 @@
+.feature {
+  background-color: rgba(14, 9, 11, 0.829);
+  color: rgba(255, 255, 255, 0.712);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: large;
+}
+
+body {
+  background-color: rgb(51, 10, 53);
+}
+
+a {
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
